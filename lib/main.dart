@@ -75,7 +75,7 @@ class _MyAppState extends State<MyApp> {
                   fontWeight: FontWeight.bold,
                 ),
               ),
-              SizedBox(height: 100.0,),
+              SizedBox(height: 200.0,),
               Row(
                 mainAxisAlignment: MainAxisAlignment.center,
                  children: [  
